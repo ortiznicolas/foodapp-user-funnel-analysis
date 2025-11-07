@@ -1,27 +1,29 @@
-🧭 Proyecto: “Optimización del Embudo de Conversión y Prueba A/B para una App de E-commerce”
+🧭 Project: “Conversion Funnel Optimization and A/B Testing for an E-commerce App”
+📌 Brief Description
 
-📌 Descripción breve:
-Este proyecto analiza el comportamiento de los usuarios dentro de una aplicación de productos alimenticios para identificar puntos de fricción en el embudo de conversión y evaluar el impacto de un rediseño tipográfico mediante un test A/A/B.
+This project analyzes user behavior within a food retail mobile application to identify friction points in the conversion funnel and assess the impact of a typographic redesign through an A/A/B test.
 
-🎯 Objetivo y contexto:
-El objetivo fue entender cómo los usuarios progresan desde el inicio de sesión hasta la compra final, identificar en qué etapas se pierde más tráfico y determinar si el nuevo diseño de fuentes afecta la tasa de conversión. A través del experimento A/A/B se evaluó la consistencia entre grupos de control y la efectividad del rediseño en el grupo experimental.
+🎯 Objective and Context
 
-🧠 Tecnologías utilizadas:
+The goal was to understand how users progress from login to final purchase, identify at which stages the most significant drop-offs occur, and evaluate whether the new font design affects conversion rates.
+Through the A/A/B experiment, we validated the consistency between control groups and assessed the effectiveness of the redesign in the experimental group.
+
+🧠 Technologies Used
 
 Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
 
-Estadística inferencial (pruebas de hipótesis, nivel de significancia)
+Inferential Statistics (hypothesis testing, significance level analysis)
 
-Análisis de embudo de conversión
+Conversion Funnel Analysis
 
-Visualización de datos
+Data Visualization
 
-📊 Resultados y aprendizajes clave:
+📊 Key Results and Insights
 
-Se descubrió que la mayor pérdida de usuarios ocurre entre las etapas de “visualización de productos” y “agregar al carrito”.
+The greatest user drop-off occurred between the product view and add-to-cart stages.
 
-No se encontraron diferencias estadísticamente significativas entre los grupos de control A1 y A2, validando la integridad experimental.
+No statistically significant differences were found between control groups A1 and A2, confirming the experiment’s reliability.
 
-El nuevo diseño de fuentes no afectó negativamente la tasa de conversión, lo que permitió su implementación sin riesgo.
+The new font design did not negatively impact the conversion rate, supporting a safe rollout across the platform.
 
-Se fortalecieron habilidades en diseño experimental, validación estadística y storytelling con datos.
+Strengthened skills in experimental design, statistical validation, and data storytelling.
